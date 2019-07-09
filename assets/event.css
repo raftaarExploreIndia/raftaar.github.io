@@ -1,0 +1,74 @@
+.navbar{
+    background-color: white;
+    border-bottom: 1px solid rgb(236, 237, 238)
+}
+.nav-itm{
+    font-family: 'Quicksand', sans-serif !important;
+    font-size: 2vh;
+    letter-spacing: 3px;
+    padding-top: 1vh;
+    padding-bottom:1vh;
+    font-weight: bold;
+    padding-right: 3vh;
+    border-right: 2px solid rgb(245, 186, 75);
+    color:black !important;
+}
+a{
+    color: white !important
+}
+.nav-png{
+    height:2vh;
+    width:2vh;
+}
+.pad-png{
+    padding-left: 2.5vh;
+    padding-top:1.2vh;
+    padding-bottom:1vh;
+    padding-right:2.5vh;
+}
+.pad-pg{
+    padding-top:1.2vh;
+}
+.nav-it{
+    font-family: 'Quicksand', sans-serif !important;
+    font-size: 2vh;
+    letter-spacing: 3px;
+    padding-top: 1vh;
+    padding-bottom:1vh;
+    font-weight: bold;
+    padding-left: 3vh;
+    border-left: 2px solid rgb(245, 186, 75);
+    color:black !important;
+}
+
+.table {
+    padding-top: 5vh;
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: gray;
+  }
+  .bg-dark{
+      color:white;
+  }
+
+.head{
+    padding-top: 15vh;
+    padding-bottom: 2vh;
+    font-family: 'Quicksand', sans-serif;
+    color: rgb(245, 186, 75);
+    letter-spacing: 2px;
+    font-size: 2vh;
+    font-weight: bold;
+}
+.info{
+    font-size: 2.3vh;
+    font-family:'Source Sans Pro', sans-serif;
+    color:gray;
+}
+.price{
+    color: rgb(245, 186, 75);
+    letter-spacing: 2px;
+    font-size: 2vh;
+    font-weight: bold;
+}

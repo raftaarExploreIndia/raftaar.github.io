@@ -1,0 +1,103 @@
+.navbar{
+    background-color: white;
+    border-bottom: 1px solid rgb(236, 237, 238)
+}
+.nav-itm{
+    font-family: 'Quicksand', sans-serif !important;
+    font-size: 2vh;
+    letter-spacing: 3px;
+    padding-top: 1vh;
+    padding-bottom:1vh;
+    font-weight: bold;
+    padding-right: 3vh;
+    border-right: 2px solid rgb(245, 186, 75);
+    color:black !important;
+}
+a{
+    color: white !important
+}
+.nav-png{
+    height:2vh;
+    width:2vh;  
+}
+.pad-png{
+    padding-left: 2.5vh;
+    padding-top:1.2vh;
+    padding-bottom:1vh;
+    padding-right:2.5vh;
+}
+.pad-pg{
+    padding-top:1.2vh;
+}
+.nav-it{
+    font-family: 'Quicksand', sans-serif !important;
+    font-size: 2vh;
+    letter-spacing: 3px;
+    padding-top: 1vh;
+    padding-bottom:1vh;
+    font-weight: bold;
+    padding-left: 3vh;
+    border-left: 2px solid rgb(245, 186, 75);
+    color:black !important;
+}
+
+.first{
+    padding-top: 15vh;
+   
+}
+.color{
+    background-color: rgba(39,62,84,0.82);
+    height: 100vh;
+}
+.second{
+    padding: 4vh;
+}
+.back{
+    height: 100vh;
+    background-image: url("backRaft.jpg");
+    background-position: center;
+}
+.formCol{
+    background-color: white;
+}
+.button{
+    background-color: red;
+    border-width: 0px;
+    border-radius: 5vh;
+    width: 15vh;
+    padding: 1vh;
+    color: white;
+}
+.head{
+    font-family: 'Quicksand', sans-serif;
+    color:rgb(245, 186, 75);
+    font-size: 2.7vh;
+    letter-spacing: 3px;
+    padding-bottom: 1.2vh;
+}
+.tag{
+    font-family:'Source Sans Pro', sans-serif;
+    font-size: 1.7vh;
+    padding-top:1vh;
+    letter-spacing: 1px;
+    color:rgb(108, 117, 125);
+    padding-bottom: 3vh;
+}
+.section{
+    background-color: white;
+    padding-top:3vh;
+    padding-bottom: 5vh;
+}
+.pad{
+    padding-top: 15vh;
+}
+.btne{
+    background-color:red;
+    color:white;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1.2vh;
+    border: 1px solid rgb(245, 186, 75);
+    letter-spacing:1px;
+    padding:1.5vh;
+    font-weight:bold;
+}
